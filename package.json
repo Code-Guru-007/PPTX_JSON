@@ -1,0 +1,24 @@
+{
+  "name": "pptx_json",
+  "version": "1.0.0",
+  "description": "generate pptx using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Guru-007/PPTX_JSON.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-Guru-007/PPTX_JSON/issues"
+  },
+  "homepage": "https://github.com/Code-Guru-007/PPTX_JSON#readme",
+  "dependencies": {
+    "nodejs-pptx": "^1.2.4",
+    "officegen": "^0.6.5",
+    "pptxgenjs": "^3.12.0"
+  }
+}
